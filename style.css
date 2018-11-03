@@ -1,0 +1,37 @@
+.jumbotron {
+    text-align: center;
+}
+
+.table-bordered {
+    background-color: darkgray;
+    border: 5px;
+
+}
+
+.panel-body{
+    border:5px grey solid;
+  }
+  .current ,.add{
+    background-color:peachpuff;
+    color:black;
+    font-size:20px;
+  }
+  #trainTable{
+    background-color:#efffff;
+    color:black;
+    font-size:20px;
+    font: bold;
+  }
+  #trainNameInput,#destinationInput,#timeInput,#frequencyInput{
+    color:black;
+    font-size:18px;
+    background-color:#efffff;
+  }
+  .form-group{
+    color: black;
+    font-size:20px;
+  }
+  .btn{
+    background-color:green;
+    font-size:20px;
+  }
